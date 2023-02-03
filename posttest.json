@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "A Karnaugh map (K-map) is an abstract form of ____________ diagram organized as a matrix of squares.",
+        "answers": {
+          "a": "Venn Diagram",
+          "b": "Cycle Diagram",
+          "c": "Block diagram",
+          "d": "Triangular Diagram"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "There are ______ cells in a 4-variable K-map",
+        "answers": {
+          "a": "12",
+          "b": "16",
+          "c": "18",
+          "d": "8"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What does the boolean expression \\( A D + A B C D + A C D + \\bar{A} B + A \\bar{C} D + \\bar{A} \\bar{B} \\), on minimization result into?",
+        "answers": {
+          "a": "\\( A + D \\)",
+          "b": "\\( A D + \\bar{A} \\)",
+          "c": "\\( A.D \\)",
+          "d": "\\( \\bar{A} + D \\)"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the following expressions is in the sum-of-products (SOP) form?",
+        "answers": {
+          "a": "\\( ( A + B ) ( C + D ) \\)",
+          "b": "\\( (A)B(CD) \\)",
+          "c": "\\( A B ( C D ) \\)",
+          "d": "\\( A B + C D \\)"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The simplified logic form of a logic function \\( Y= \\overline{(\\overline{A\\bar{B}})(\\overline{\\bar{A}B})}\\)",
+        "answers": {
+          "a": "\\( A + B \\)",
+          "b": "\\( AB \\)",
+          "c": "\\( \\bar{A} + \\bar{B} \\)",
+          "d": "\\( \\bar{A} B + A \\bar{B} \\)"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  

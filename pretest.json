@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "The boolean expression \\( X=B + A \\bar{B} + AB \\) is equivalent to",
+        "answers": {
+          "a": "\\( A + B \\)",
+          "b": "\\( \\bar{A} B \\)",
+          "c": "\\( \\overline{AB} \\)",
+          "d": "\\( AB \\)"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The Boolean expression \\( X = (A + B)(C + D) \\) represents",
+        "answers": {
+          "a": "two ORs ANDed together",
+          "b": "two ANDs ORed together",
+          "c": "A 4-input AND gate",
+          "d": "A 4-input OR gate"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the following boolean expressions is 'NOT TRUE'?",
+        "answers": {
+          "a": "\\( A+1 = A \\)",
+          "b": "\\( A+\\bar{A} = 1 \\)",
+          "c": "\\( A.A = A \\)",
+          "d": "\\( A\\bar{A} = 0 \\)"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The boolean expression \\( Y=AB+(A+B)( \\bar{A} + B ) \\) may be simplified as",
+        "answers": {
+          "a": "\\( Y = A \\)",
+          "b": "\\( Y = \\bar{A} \\)",
+          "c": "\\( Y = B \\)",
+          "d": "\\( Y = \\bar{B} \\)"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the following boolean algebra rules is correct?",
+        "answers": {
+          "a": "\\( A . \\bar{A} = 1 \\)",
+          "b": "\\( A + AB = A + B \\)",
+          "c": "\\( A + \\bar{A} B = A + B\\)",
+          "d": "\\( A ( A + B ) = B \\)"
+        },
+        "correctAnswer": "c",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
