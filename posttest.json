@@ -1,0 +1,61 @@
+{
+    "version": 2.0,
+    "questions": [
+      {
+        "question": "A Karnaugh map (K-map) is an abstract form of ____________ diagram organized as a matrix of squares.",
+        "answers": {
+          "a": "Venn Diagram",
+          "b": "Cycle Diagram",
+          "c": "Block diagram",
+          "d": "Triangular Diagram"
+        },
+        "correctAnswer": "a",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "There are ______ cells in a 4-variable K-map",
+        "answers": {
+          "a": "12",
+          "b": "16",
+          "c": "18",
+          "d": "8"
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "What does the boolean expression A D + A B C D + A C D + A&#773; B + A C&#773; D + A&#773;B&#773;, on minimization result into?",
+        "answers": {
+          "a": "A + D",
+          "b": "A D + A&#773;",
+          "c": "A.D",
+          "d": "A&#773; + D "
+        },
+        "correctAnswer": "b",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "Which of the following expressions is in the sum-of-products (SOP) form?",
+        "answers": {
+          "a": "(A+B)(C+D)",
+          "b": "(A)B(CD)",
+          "c": "AB(CD)",
+          "d": "AB+CD"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      },
+      {
+        "question": "The simplified logic form of a logic function (Y) from Y&#773; = (<span style=\"text-decoration: overline;\">AB&#773;</span>)(<span style=\"text-decoration: overline;\">A&#773;B</span>)",
+        "answers": {
+          "a": "A + B ",
+          "b": "AB ",
+          "c": "A&#773;+B&#773; ",
+          "d": "A&#773;B+AB&#773;"
+        },
+        "correctAnswer": "d",
+        "difficulty": "beginner"
+      }
+    ]
+  }
+  
