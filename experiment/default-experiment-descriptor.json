@@ -26,7 +26,8 @@
       "source": "pretest.json",
       "label": "Pretest",
       "unit-type": "task",
-      "content-type": "assesment"
+      "content-type": "assesment",
+      "LaTeXinMD": true
     },
     {
       "target": "procedure.html",
