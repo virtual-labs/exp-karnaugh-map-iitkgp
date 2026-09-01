@@ -46,7 +46,7 @@
         "difficulty": "beginner"
       },
       {
-        "question": "The simplified logic form of a logic function (Y) from \\( Y&#733;= (<span style=\"text-decoration: overline;\">AB&#773;</span>)(<span style=\"text-decoration: overline;\">A&#773;B</span>)",
+        "question": "The simplified logic form of a logic function (Y) from Y&#773; = (<span style=\"text-decoration: overline;\">AB&#773;</span>)(<span style=\"text-decoration: overline;\">A&#773;B</span>)",
         "answers": {
           "a": "A + B ",
           "b": "AB ",
