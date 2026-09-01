@@ -24,12 +24,12 @@
         "difficulty": "beginner"
       },
       {
-        "question": "What does the boolean expression \\( A D + A B C D + A C D + \\bar{A} B + A \\bar{C} D + \\bar{A} \\bar{B} \\), on minimization result into?",
+        "question": "What does the boolean expression A D + A B C D + A C D + A&#773; B + A C&#773; D + A&#773;B&#773;, on minimization result into?",
         "answers": {
-          "a": "\\( A + D \\)",
-          "b": "\\( A D + \\bar{A} \\)",
-          "c": "\\( A.D \\)",
-          "d": "\\( \\bar{A} + D \\)"
+          "a": "A + D",
+          "b": "A D + A&#773;",
+          "c": "A.D",
+          "d": "A&#773; + D "
         },
         "correctAnswer": "b",
         "difficulty": "beginner"
@@ -37,21 +37,21 @@
       {
         "question": "Which of the following expressions is in the sum-of-products (SOP) form?",
         "answers": {
-          "a": "\\( ( A + B ) ( C + D ) \\)",
-          "b": "\\( (A)B(CD) \\)",
-          "c": "\\( A B ( C D ) \\)",
-          "d": "\\( A B + C D \\)"
+          "a": "(A+B)(C+D)",
+          "b": "(A)B(CD)",
+          "c": "AB(CD)",
+          "d": "AB+CD"
         },
         "correctAnswer": "d",
         "difficulty": "beginner"
       },
       {
-        "question": "The simplified logic form of a logic function \\( Y= \\overline{(\\overline{A\\bar{B}})(\\overline{\\bar{A}B})}\\)",
+        "question": "The simplified logic form of a logic function (Y) from Y&#773; = (<span style=\"text-decoration: overline;\">AB&#773;</span>)(<span style=\"text-decoration: overline;\">A&#773;B</span>)",
         "answers": {
-          "a": "\\( A + B \\)",
-          "b": "\\( AB \\)",
-          "c": "\\( \\bar{A} + \\bar{B} \\)",
-          "d": "\\( \\bar{A} B + A \\bar{B} \\)"
+          "a": "A + B ",
+          "b": "AB ",
+          "c": "A&#773;+B&#773; ",
+          "d": "A&#773;B+AB&#773;"
         },
         "correctAnswer": "d",
         "difficulty": "beginner"
