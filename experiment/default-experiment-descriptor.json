@@ -9,7 +9,6 @@
     "position": 5
   },
   "services": [],
-  "service-worker": "/path/to/service-worker.js",
   "units": [
     {
       "unit-type": "aim"
